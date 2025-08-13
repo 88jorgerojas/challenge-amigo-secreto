@@ -132,6 +132,22 @@ ul {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
+    border: 2px solid #e55720;
+    width: 600px;
+    border-radius: 15px 15px 0px 0px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-white);
+
+}
+
+li {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: capitalize;
 }
 
 .result-list {
