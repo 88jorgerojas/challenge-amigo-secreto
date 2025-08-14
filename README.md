@@ -32,9 +32,11 @@ AMOGO SECRETO
 * JAVASCRIPT
 
 ##### IMAGEN DEL PROYECTO
+![muestra](https://github.com/user-attachments/assets/16ff3c7a-1a74-4053-a047-4cfe63cf446a)
 
 ##### AUTOR
-- 88jorge rojas
+- [88jorge rojas](https://github.com/88jorgerojas)
+- https://www.linkedin.com/in/jorge-hernando-rojas-salazar/
 
 
 
